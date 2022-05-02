@@ -7,6 +7,5 @@ public abstract class Figure {
     public Figure(Color color) {
         this.color = color;
     }
-
 }
 
