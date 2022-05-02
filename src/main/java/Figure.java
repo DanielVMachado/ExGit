@@ -7,5 +7,7 @@ public abstract class Figure {
     public Figure(Color color) {
         this.color = color;
     }
+
+    public abstract double perimeter();
 }
 

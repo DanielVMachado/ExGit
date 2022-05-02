@@ -10,4 +10,9 @@ public class Rectangle extends Figure {
         this.upperLeft = upperLeft;
         this.bottomRight = bottomRight;
     }
+
+    @Override
+    public double perimeter() {
+        return 10;
+    }
 }

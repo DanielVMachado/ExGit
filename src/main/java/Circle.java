@@ -27,4 +27,9 @@ public class Circle extends Figure{
     }
 
     public void expand(double scaleFactor){};
+
+    @Override
+    public double perimeter() {
+        return 0;
+    }
 }
