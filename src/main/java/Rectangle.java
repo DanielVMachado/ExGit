@@ -15,4 +15,8 @@ public class Rectangle extends Figure {
     public double area() {
         return 0;
     }
+        public double perimeter () {
+            return 10;
+
+    }
 }
